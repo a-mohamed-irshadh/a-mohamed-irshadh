@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mohamed Mrshadh
+- 👀 I’m interested in learning new stuffs
+- 🌱 I’m currently learning docker and heroku
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 You can reach me @a-mohamed-irshadh
