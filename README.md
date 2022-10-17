@@ -9,4 +9,4 @@
  - 📫 You can reach me at [GitHub][1]
 
 
-  [1]: https://github.com/a-mohamed-irshadh/a-mohamed-irshadh
+  [1]: https://github.com/a-mohamed-irshadh
